@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/pre-dexed/debug/classes_8c701a25d4fb74b5f207c6791eaa9d915729ac5b.jar" />
+    </item>
+
+</items>

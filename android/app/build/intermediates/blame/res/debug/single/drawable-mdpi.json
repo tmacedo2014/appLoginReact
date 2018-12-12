@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_2.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_2.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_dot.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_dot.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_avatar.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_avatar.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnaboutus.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnaboutus.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_bg_main.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_bg_main.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnpets.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnpets.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnhousehold.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnhousehold.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_bg_in.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_bg_in.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_logo.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_logo.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_shadow.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_shadow.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnservices.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnservices.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btneletronics.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btneletronics.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_menu.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_menu.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_bg.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_bg.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnads.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnads.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnbookmark.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnbookmark.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnfashion.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnfashion.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_1.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_1.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnbooks.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnbooks.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backiconmask.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backicon.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnjobs.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnjobs.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnreal_estate.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnreal_estate.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_contact.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_contact.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_3.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_3.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btnmessage.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btnmessage.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_btncar.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/drawable-mdpi/assets_images_btncar.png"
+    }
+]

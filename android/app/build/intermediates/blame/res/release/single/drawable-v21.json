@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\tlm\\ReactNative\\appClienteIBoltt2\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\tiber\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e91d6819e3377dac937c386a9db85c8a\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\tlm\\ReactNative\\appClienteIBoltt2\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\tiber\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9ac4c9a579cea72305a6ad8c44353b4c\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\tlm\\ReactNative\\appClienteIBoltt2\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\tiber\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9ac4c9a579cea72305a6ad8c44353b4c\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\tlm\\ReactNative\\appClienteIBoltt2\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\tiber\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9ac4c9a579cea72305a6ad8c44353b4c\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

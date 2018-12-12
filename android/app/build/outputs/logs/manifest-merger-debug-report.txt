@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wditechy-01/.android/build-cache/7daa84b48e51dfbc4fa3e823d03cf57386af9b83/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wditechy-01/.android/build-cache/7daa84b48e51dfbc4fa3e823d03cf57386af9b83/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wditechy-01/.android/build-cache/217ded41987912bbab1fc95f35536b1cc2c3bcb9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wditechy-01/.android/build-cache/3ed4d83436be6d3e844f257b41ef221307e5162f/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wditechy-01/.android/build-cache/1259068d73f526b1474c5ffcb13c9c6f4dde3e44/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wditechy-01/.android/build-cache/2d54913843c01adbcbe5378c21f03c9f7457ce75/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wditechy-01/.android/build-cache/423f392194b47e41fa276f383377c3ae83fa2912/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wditechy-01/.android/build-cache/1b12b970d95c8a5803b49afd51efb264c5ff6a2a/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wditechy-01/.android/build-cache/7389888c2029eabf9b611de2230968dc896929fc/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wditechy-01/.android/build-cache/d746e0342dc4bf03c13f3419951322b0507f627d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wditechy-01/.android/build-cache/36ef3d3b07d45c5ea70e102a8bec7fff19c6f6d6/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wditechy-01/.android/build-cache/b1e27f8640c429dc99fafa312210d145e673bdb1/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wditechy-01/.android/build-cache/3f90ea03d07e7872d209eb85faaaddcc7977e912/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/wditechy-01/.android/build-cache/74950bac3a34fd25ae80cda17828cf2fa0583710/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.oclassify.MainActivity
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [oClassify:react-native-vector-icons:unspecified] /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wditechy-01/.android/build-cache/7daa84b48e51dfbc4fa3e823d03cf57386af9b83/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wditechy-01/.android/build-cache/217ded41987912bbab1fc95f35536b1cc2c3bcb9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wditechy-01/.android/build-cache/3ed4d83436be6d3e844f257b41ef221307e5162f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wditechy-01/.android/build-cache/1259068d73f526b1474c5ffcb13c9c6f4dde3e44/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wditechy-01/.android/build-cache/2d54913843c01adbcbe5378c21f03c9f7457ce75/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wditechy-01/.android/build-cache/423f392194b47e41fa276f383377c3ae83fa2912/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wditechy-01/.android/build-cache/1b12b970d95c8a5803b49afd51efb264c5ff6a2a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wditechy-01/.android/build-cache/7389888c2029eabf9b611de2230968dc896929fc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wditechy-01/.android/build-cache/d746e0342dc4bf03c13f3419951322b0507f627d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wditechy-01/.android/build-cache/36ef3d3b07d45c5ea70e102a8bec7fff19c6f6d6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wditechy-01/.android/build-cache/b1e27f8640c429dc99fafa312210d145e673bdb1/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/wditechy-01/.android/build-cache/2bef23e6f3bbec77f9dfbbc60d05471862b583fd/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/wditechy-01/.android/build-cache/394480bc424685813211a168f50bc6a98e8e9437/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/wditechy-01/.android/build-cache/274524e6d686e6920a5dd5a5154a9ff586c098ef/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/wditechy-01/.android/build-cache/b8dc1a7ff2ebbb81bbcb9ad2c6678f08804edd04/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/wditechy-01/.android/build-cache/a5ddd6161a50ff6cc9405863ef4d6043043b5b36/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/wditechy-01/.android/build-cache/5f5d79024b44765c7467bb17e5336e5b754e42d7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/wditechy-01/.android/build-cache/e888b8c33206c6113e531b7d9449112a37409ca7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wditechy-01/.android/build-cache/3f90ea03d07e7872d209eb85faaaddcc7977e912/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/wditechy-01/.android/build-cache/217ded41987912bbab1fc95f35536b1cc2c3bcb9/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/wditechy-01/.android/build-cache/217ded41987912bbab1fc95f35536b1cc2c3bcb9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wditechy-01/.android/build-cache/3ed4d83436be6d3e844f257b41ef221307e5162f/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wditechy-01/.android/build-cache/1259068d73f526b1474c5ffcb13c9c6f4dde3e44/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wditechy-01/.android/build-cache/2d54913843c01adbcbe5378c21f03c9f7457ce75/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wditechy-01/.android/build-cache/423f392194b47e41fa276f383377c3ae83fa2912/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wditechy-01/.android/build-cache/1b12b970d95c8a5803b49afd51efb264c5ff6a2a/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wditechy-01/.android/build-cache/7389888c2029eabf9b611de2230968dc896929fc/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wditechy-01/.android/build-cache/d746e0342dc4bf03c13f3419951322b0507f627d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wditechy-01/.android/build-cache/36ef3d3b07d45c5ea70e102a8bec7fff19c6f6d6/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/wditechy-01/.android/build-cache/217ded41987912bbab1fc95f35536b1cc2c3bcb9/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/wditechy-01/.android/build-cache/217ded41987912bbab1fc95f35536b1cc2c3bcb9/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wditechy-01/.android/build-cache/b1e27f8640c429dc99fafa312210d145e673bdb1/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wditechy-01/.android/build-cache/b1e27f8640c429dc99fafa312210d145e673bdb1/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wditechy-01/.android/build-cache/b1e27f8640c429dc99fafa312210d145e673bdb1/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

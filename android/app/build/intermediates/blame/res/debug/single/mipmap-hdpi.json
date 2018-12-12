@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Volumes/Mac 2/ReactNative/WDITechy/Classified/oClassify/App/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
